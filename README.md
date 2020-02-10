@@ -1,8 +1,8 @@
 # researchinterest
 
-# Non-Utility Water Supply
+# Non-Utility Water Supply Capstone Project
 
-# Remember to visit my project and wiki tabs/pages for more details 
+# Note: Remember to visit my project and wiki tabs/pages for more details on attribute of my project
 
 # Population of Niger Delta Nigeria by states: 2006, 2012, 2013, 2014, 2015, 2016
 ## Abia 
