@@ -1,7 +1,7 @@
 # researchinterest
 
 # Population of Niger Delta Nigerai by states: 2006, 2012, 2013, 2014, 2015, 2016
-Abia 2006: 2,845,380
+## Abia 2006: 2,845,380
      2012: 3,345,769
      2013: 3,437,336
      2014: 3,531,408
