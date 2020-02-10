@@ -2,7 +2,7 @@
 
 # Non-Utility Water Supply Capstone Project
 
-# Note: Remember to visit my project and wiki tabs/pages for more details on attribute of my project
+## Note: Remember to visit my project and wiki tabs/pages for more details on attribute of my project
 
 # Population of Niger Delta Nigeria by states: 2006, 2012, 2013, 2014, 2015, 2016
 ## Abia 
@@ -12,7 +12,7 @@
      2014: 3,531,408
      2015: 3,628,055
      2016: 3,727,347
-# Akwa Ibom 
+## Akwa Ibom 
           2006: 3,902,051
           2012: 4,785,078
           2013: 4,950,568
